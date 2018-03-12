@@ -12,6 +12,7 @@ namespace ConsoleApplication
             if (args.Length > 0)
             {
                 testImagePath = args[0];
+                //penistest
             }
 
             try
